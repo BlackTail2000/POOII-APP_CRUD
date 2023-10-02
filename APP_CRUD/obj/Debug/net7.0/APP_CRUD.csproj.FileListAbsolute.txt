@@ -1,0 +1,152 @@
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.AssemblyReference.cache
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.AssemblyInfoInputs.cache
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.AssemblyInfo.cs
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.CoreCompileInputs.cache
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.RazorAssemblyInfo.cache
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.RazorAssemblyInfo.cs
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\appsettings.Development.json
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\appsettings.json
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.staticwebassets.runtime.json
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.exe
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.deps.json
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.runtimeconfig.json
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.dll
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.pdb
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.APP_CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.build.APP_CRUD.props
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APP_CRUD.props
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APP_CRUD.props
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.pack.json
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.build.json
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.development.json
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\bundle\APP_CRUD.styles.css
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\projectbundle\APP_CRUD.bundle.scp.css
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.CopyComplete
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.dll
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\refint\APP_CRUD.dll
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.pdb
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.genruntimeconfig.cache
+D:\1 NTFS\ITN\2023-2\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\ref\APP_CRUD.dll
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\appsettings.Development.json
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\appsettings.json
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.staticwebassets.runtime.json
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.exe
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.deps.json
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.runtimeconfig.json
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.dll
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.pdb
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\System.Data.SqlClient.dll
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\__POO II\S03\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.AssemblyReference.cache
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.AssemblyInfoInputs.cache
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.AssemblyInfo.cs
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.CoreCompileInputs.cache
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.MvcApplicationPartsAssemblyInfo.cache
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.RazorAssemblyInfo.cache
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.RazorAssemblyInfo.cs
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.APP_CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.build.APP_CRUD.props
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APP_CRUD.props
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APP_CRUD.props
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.pack.json
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.build.json
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.development.json
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\bundle\APP_CRUD.styles.css
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\projectbundle\APP_CRUD.bundle.scp.css
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.CopyComplete
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.dll
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\refint\APP_CRUD.dll
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.pdb
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.genruntimeconfig.cache
+E:\__POO II\S03\APP_CRUD\APP_CRUD\obj\Debug\net7.0\ref\APP_CRUD.dll
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\appsettings.json
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.staticwebassets.runtime.json
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.exe
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.deps.json
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.runtimeconfig.json
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.dll
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.pdb
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.AssemblyReference.cache
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.AssemblyInfoInputs.cache
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.AssemblyInfo.cs
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.RazorAssemblyInfo.cache
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.RazorAssemblyInfo.cs
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.APP_CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.build.APP_CRUD.props
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APP_CRUD.props
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APP_CRUD.props
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\bundle\APP_CRUD.styles.css
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\projectbundle\APP_CRUD.bundle.scp.css
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.CopyComplete
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.dll
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\refint\APP_CRUD.dll
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.pdb
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.genruntimeconfig.cache
+C:\Users\Soporte\Desktop\APP_CRUD\APP_CRUD\obj\Debug\net7.0\ref\APP_CRUD.dll
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\appsettings.json
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.staticwebassets.runtime.json
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.exe
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.deps.json
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.runtimeconfig.json
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.dll
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\APP_CRUD.pdb
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.AssemblyReference.cache
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.AssemblyInfoInputs.cache
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.AssemblyInfo.cs
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.CoreCompileInputs.cache
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.RazorAssemblyInfo.cache
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.RazorAssemblyInfo.cs
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.APP_CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.build.APP_CRUD.props
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.APP_CRUD.props
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.APP_CRUD.props
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\bundle\APP_CRUD.styles.css
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\scopedcss\projectbundle\APP_CRUD.bundle.scp.css
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.csproj.CopyComplete
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.dll
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\refint\APP_CRUD.dll
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.pdb
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\APP_CRUD.genruntimeconfig.cache
+C:\Users\Julio Pretell\Desktop\PC02\APP_CRUD\APP_CRUD\APP_CRUD\obj\Debug\net7.0\ref\APP_CRUD.dll
